@@ -1,5 +1,6 @@
-https://stockmarket-tracker.netlify.app/
+Link: https://stockmarket-tracker.netlify.app/
 
+Shows the changes over multiple years in stock market prices for any NASDAQ stock. 
 
 # Getting Started with Create React App
 
